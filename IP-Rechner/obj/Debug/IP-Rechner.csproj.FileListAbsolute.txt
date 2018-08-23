@@ -1,0 +1,10 @@
+C:\Users\david\Desktop\lord\IP-Rechner\IP-Rechner\bin\Debug\IP-Rechner.exe.config
+C:\Users\david\Desktop\lord\IP-Rechner\IP-Rechner\bin\Debug\IP-Rechner.exe
+C:\Users\david\Desktop\lord\IP-Rechner\IP-Rechner\bin\Debug\IP-Rechner.pdb
+C:\Users\david\Desktop\lord\IP-Rechner\IP-Rechner\obj\Debug\IP-Rechner.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\lord\IP-Rechner\IP-Rechner\obj\Debug\IP_Rechner.Form1.resources
+C:\Users\david\Desktop\lord\IP-Rechner\IP-Rechner\obj\Debug\IP_Rechner.Properties.Resources.resources
+C:\Users\david\Desktop\lord\IP-Rechner\IP-Rechner\obj\Debug\IP-Rechner.csproj.GenerateResource.Cache
+C:\Users\david\Desktop\lord\IP-Rechner\IP-Rechner\obj\Debug\IP-Rechner.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\lord\IP-Rechner\IP-Rechner\obj\Debug\IP-Rechner.exe
+C:\Users\david\Desktop\lord\IP-Rechner\IP-Rechner\obj\Debug\IP-Rechner.pdb
